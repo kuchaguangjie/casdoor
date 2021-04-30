@@ -1,0 +1,11 @@
+appname = casdoor
+httpport = 8000
+runmode = dev
+SessionOn = true
+copyrequestbody = true
+db = mysql
+dataSourceName = root:123@tcp(localhost:3306)/
+dbName = casdoor
+AuthState = "casdoor"
+UseProxy = false
+EnableDocs = true
